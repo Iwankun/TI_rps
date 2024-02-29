@@ -1,1 +1,1 @@
-[Website Resmi Himpunan Teknologi Informasi Untara](https://teknologi-informasi.vercel.app)
+[Website Resmi Teknologi Informasi Untara](https://teknologi-informasi.vercel.app)
